@@ -1,0 +1,9 @@
+E:\Aplikacje C#\WeatherApp\WeatherApp\bin\Debug\WeatherApp.exe.config
+E:\Aplikacje C#\WeatherApp\WeatherApp\bin\Debug\WeatherApp.exe
+E:\Aplikacje C#\WeatherApp\WeatherApp\bin\Debug\WeatherApp.pdb
+E:\Aplikacje C#\WeatherApp\WeatherApp\obj\Debug\WeatherApp.csprojResolveAssemblyReference.cache
+E:\Aplikacje C#\WeatherApp\WeatherApp\obj\Debug\WeatherApp.FormWeather.resources
+E:\Aplikacje C#\WeatherApp\WeatherApp\obj\Debug\WeatherApp.Properties.Resources.resources
+E:\Aplikacje C#\WeatherApp\WeatherApp\obj\Debug\WeatherApp.csproj.GenerateResource.Cache
+E:\Aplikacje C#\WeatherApp\WeatherApp\obj\Debug\WeatherApp.exe
+E:\Aplikacje C#\WeatherApp\WeatherApp\obj\Debug\WeatherApp.pdb
